@@ -1,0 +1,88 @@
+{
+  "title": "ToffeeBD Match 2",
+  "meta": {
+    "description": "Watch ToffeeBD Match 2 live streaming on 360itv. Stay tuned for the latest match action.",
+    "og": {
+      "title": "ToffeeBD Match 2",
+      "description": "Watch ToffeeBD Match 2 live streaming on 360itv. Stay tuned for the latest match action.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6HDruRTWlvtRIwcpZENWXvxz_2VVyKsp5RFyP87JZu6DD2RLit14IT8qwu5JdEBuwkJh8_vteoJ1iVSweGRL94ZLGUBa1vfGPPt_qbEvk727ibhu66k0aXelCJjgSwHTrA7n2S5RIYk4AIJTKwK-cB2lXcNjDUb24KEnMmdjRxuguRDb50Vsxw4YLuf8U/s320/360i.jpg",
+      "url": "https://amartechbd.xyz/toffeebd/?play=match-2"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "ToffeeBD Match 2",
+      "description": "Watch ToffeeBD Match 2 live streaming on 360itv. Stay tuned for the latest match action.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6HDruRTWlvtRIwcpZENWXvxz_2VVyKsp5RFyP87JZu6DD2RLit14IT8qwu5JdEBuwkJh8_vteoJ1iVSweGRL94ZLGUBa1vfGPPt_qbEvk727ibhu66k0aXelCJjgSwHTrA7n2S5RIYk4AIJTKwK-cB2lXcNjDUb24KEnMmdjRxuguRDb50Vsxw4YLuf8U/s320/360i.jpg"
+    }
+  },
+  "elements": {
+    "iframe": {
+      "src": "https://amartechbd.xyz/toffeebd/?play=match-2",
+      "title": "ToffeeBD Match 2",
+      "ariaLabel": "Watch ToffeeBD Match 2 live"
+    },
+    "watermark": {
+      "text": "360itv",
+      "style": {
+        "position": "fixed",
+        "bottom": "10px",
+        "right": "10px",
+        "fontSize": "30px",
+        "color": "rgba(0, 0, 0, 0.2)",
+        "fontWeight": "bold",
+        "zIndex": "9999",
+        "transform": "rotate(-45deg)",
+        "pointerEvents": "none",
+        "animation": "fadeInOut 5s infinite"
+      }
+    },
+    "logo": {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6HDruRTWlvtRIwcpZENWXvxz_2VVyKsp5RFyP87JZu6DD2RLit14IT8qwu5JdEBuwkJh8_vteoJ1iVSweGRL94ZLGUBa1vfGPPt_qbEvk727ibhu66k0aXelCJjgSwHTrA7n2S5RIYk4AIJTKwK-cB2lXcNjDUb24KEnMmdjRxuguRDb50Vsxw4YLuf8U/s320/360i.jpg",
+      "alt": "360itv Logo",
+      "style": {
+        "position": "fixed",
+        "top": "10px",
+        "left": "10px",
+        "width": "150px",
+        "height": "auto",
+        "zIndex": "9998",
+        "transition": "transform 0.3s ease-in-out"
+      }
+    },
+    "overlay": {
+      "style": {
+        "position": "fixed",
+        "top": "0",
+        "left": "0",
+        "width": "100%",
+        "height": "100%",
+        "background": "rgba(0, 0, 0, 0.5)",
+        "color": "#fff",
+        "display": "flex",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "fontSize": "2rem",
+        "zIndex": "2",
+        "display": "none"
+      },
+      "message": "Loading, please wait..."
+    },
+    "telegramIcon": {
+      "href": "https://t.me/+h5cW8Gja49JkNWU1",
+      "target": "_blank",
+      "style": {
+        "position": "fixed",
+        "bottom": "20px",
+        "right": "20px",
+        "backgroundColor": "#0088cc",
+        "padding": "15px",
+        "borderRadius": "50%",
+        "color": "white",
+        "fontSize": "30px",
+        "zIndex": "9999",
+        "transition": "transform 0.3s ease-in-out"
+      },
+      "icon": "fab fa-telegram-plane"
+    }
+  }
+}
